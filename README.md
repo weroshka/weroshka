@@ -18,7 +18,7 @@
 ## 🛠 Technical Stack
 *   JavaScript/HTML/SCSS
 *   MySQL, PostgreSQL
-*   React.js library, Node.js 
+*   React.js, Node.js 
 *   Tilda, Figma
 *   GitHub/GitLab/GitKraken
 *   English B1-B2
