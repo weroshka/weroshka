@@ -34,7 +34,7 @@
 ### How to reach me: 
 
 You can write me to <a href='mailto:nika.kurt@yandex.ru'>nika.kurt@yandex.ru</a> for formal communication
-or use <a href="https://t.me/nikka_kurt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a> for fast response 
+or use <a href="https://t.me/werosh_ka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a> for fast response 
 
 
 
