@@ -28,7 +28,6 @@
 *   [BalanceBox](https://github.com/weroshka/balance-box-server) - My first project made with Node.js
 *   [Declarant](https://github.com/weroshka/declarant-client) - My best project on React.js nowadays
 *   [BaltEcoKorm](https://balt-ecokorm.tdptdp.ru/) - Website for real company, my first commertial project
-*   [Kranik](https://cranik.tdptdp.ru/) - Website for real company, my second commertial project
 *   [7dey](https://7deys.tdptdp.ru/) - Freelance project about fashion industry
 
 ### How to reach me: 
