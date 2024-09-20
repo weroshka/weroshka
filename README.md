@@ -1,7 +1,7 @@
 ## Hi, I'm Veronika 👋
 
 
-👩‍💻 Junior frontend developer with experience in freelance projects over 5 months and 4 months of coommertial experince.
+👩‍💻 Junior frontend developer with experience in freelance projects over 7 months and 4 months of coommertial experince.
 
 📚 Student of Immanuel Kant Baltic Federal University, educational program - "Applied mathematics and computer science"
 
